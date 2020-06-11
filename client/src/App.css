@@ -1,0 +1,68 @@
+.card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 30px;
+  min-height: 30rem;
+}
+.form {
+  max-width: 350px;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+}
+
+.name-field {
+  margin-bottom: 40px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background: transparent;
+  border-radius: 5px;
+}
+
+.render-chat {
+  max-width: 350px;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+}
+
+h3 {
+  color: #2f72da;
+}
+
+span {
+  color: black;
+}
+li {
+  list-style:none;
+}
+.enter{
+  animation: FadeAnimation 3s ease-in .2s forwards;
+}
+@keyframes FadeAnimation {
+  0% {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+.component {
+  max-width: 350px;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+}
+.date {
+  font-size: 12px;
+}
+#chat{
+  max-height: 750px;
+  overflow-y: auto;
+}
