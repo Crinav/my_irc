@@ -2,7 +2,7 @@
   
 A Duo project using Socket.io , ExpressJS and ReactJS to create a simple Chat app 
 
-![alt text](https://github.com/Crinav/my_irc/blob/master/chat1.png "main page")  
+![alt text](https://github.com/Crinav/my_irc/blob/master/screens/chat1.png "main page")  
 ___  
   
 
@@ -26,7 +26,7 @@ Copyright (©) Christophe Navarro <navarro.christophe@gmail.com>
   
 
 
-![alt text](https://github.com/Crinav/my_irc/blob/master/chat2.png)   
+![alt text](https://github.com/Crinav/my_irc/blob/master/screens/chat2.png)   
 ___  
 
-![alt text](https://github.com/Crinav/my_irc/blob/master/chat3.png)  
+![alt text](https://github.com/Crinav/my_irc/blob/master/screens/chat3.png)  
